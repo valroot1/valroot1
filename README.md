@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=valroot1&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=valroot1&locale=en&mode=daily&theme=light&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
