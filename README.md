@@ -1,4 +1,3 @@
-[![Valeria's GitHub stats](https://github-readme-stats.vercel.app/api?username=valroot1)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
